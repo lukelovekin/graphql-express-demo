@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "firstName": "Luke",
+      "age": 28,
+      "companyId": "1"
+    },
+    {
+      "id": "2",
+      "firstName": "Megan",
+      "age": 33,
+      "companyId": "2"
+    },
+    {
+      "id": "3",
+      "firstName": "Belle",
+      "age": 1,
+      "companyId": "3"
+    }
+  ],
+  "companies": [
+    {
+      "id": "1",
+      "name": "Google",
+      "desc": "search engine"
+    },
+    {
+      "id": "2",
+      "name": "Facebook",
+      "desc": "social page"
+    },
+    {
+      "id": "3",
+      "name": "Amazon",
+      "desc": "ecommorce"
+    }
+  ]
+}
